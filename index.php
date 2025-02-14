@@ -29,6 +29,7 @@
 
 <body>
   <h1 id="title">MidTerm Exam - DevOps Infrastructure Level 1</h1>
+  <h2 id="instance">Server IP: <?php echo $_SERVER['SERVER_ADDR']; ?></h2>
 
   <div class="container">
     <!-- Left Panel -->
