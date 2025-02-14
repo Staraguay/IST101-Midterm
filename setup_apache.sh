@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Definir la nueva carpeta del proyecto
-PROJECT_PATH="/var/www/midTermExamAWS"
+PROJECT_PATH="/var/www/IST101-Midterm"
 
 # Cambiar permisos y propietario
 sudo chown -R apache:apache "$PROJECT_PATH"  # Para Amazon Linux / CentOS
